@@ -1,0 +1,78 @@
+Time Series AI Stack - Wind Turbine Anomaly Detection 1.0 -Third Party Programs File
+
+This file contains the list of third party software ("third party programs")
+contained in the Intel software and their required notices and/or license
+terms. This third party software, even if included with the distribution of
+the Intel software, may be governed by separate license terms, including
+without limitation, third party license terms, other Intel software license
+terms, and open source software license terms. These separate license terms
+govern your use of the third party programs as set forth in the
+"third-party-programs.txt" or other similarly-named text file.
+
+Third party programs and their corresponding required notices and/or license
+terms are listed below.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Opcua microservice:
+
+License-Identifier: Apache License 2.0
+
+cryptography==44.0.1
+pyOpenSSL==25.1.0
+sortedcontainers==2.4.0
+typing_extensions==4.14.0
+tzdata==2025.2
+
+License-Identifier: MIT License
+aiofiles==24.1.0
+aiosqlite==0.21.0
+cffi==1.17.1
+six==1.17.0
+
+License-Identifier: LGPL-3.0
+asyncua==1.1.5
+
+License-Identifier: BSD License
+numpy==2.3.0
+pandas==2.2.3
+pycparser==2.22
+python-dateutil==2.9.0.post0
+pytz==2025.2
+
+License-Identifier: MIT License / Proprietary
+pip==25.1.1
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+MQTT Publisher microservice
+
+License-Identifier: Apache License 2.0
+cryptography==44.0.1
+pyOpenSSL==25.1.0
+sortedcontainers==2.4.0
+typing_extensions==4.14.0
+tzdata==2025.2
+
+License-Identifier: MIT License
+aiofiles==24.1.0
+aiosqlite==0.21.0
+cffi==1.17.1
+six==1.17.0
+
+License-Identifier: LGPL-3.0
+asyncua==1.1.5
+
+License-Identifier: BSD License
+numpy==2.3.0
+pandas==2.2.3
+pycparser==2.22
+python-dateutil==2.9.0.post0
+pytz==2025.2
+
+License-Identifier: MIT License / Proprietary
+pip==25.1.1
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Other names and brands may be claimed as the property of others.
