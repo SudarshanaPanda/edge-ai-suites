@@ -1,4 +1,4 @@
-Wind Turbine Anomaly Detection 1.0 -Third Party Programs File
+Wind Turbine Anomaly Detection - Third Party Programs File
 
 This file contains the list of third party software ("third party programs")
 contained in the Intel software and their required notices and/or license
@@ -36,6 +36,12 @@ License-Identifier: PostgreSQL
 
 
 ---------------------------------------------------------------------------------------------------------------------------
+
+
+ia-time-series-analytics-microservice:
+=============================
+
+Info available at [third-party-programs.txt](https://github.com/open-edge-platform/edge-ai-libraries/blob/main/microservices/time-series-analytics/third-party-programs.txt)
 
 ia-opcua-server microservice:
 =============================
